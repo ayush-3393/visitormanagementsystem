@@ -8,6 +8,8 @@ import vms.visitormanagementsystem.dtos.EventResponseDto;
 import vms.visitormanagementsystem.models.Event;
 import vms.visitormanagementsystem.services.EventService;
 
+// TODO : Write Test Cases
+
 @RestController
 @RequestMapping("/events")
 public class EventController {

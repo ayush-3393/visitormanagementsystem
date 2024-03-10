@@ -11,6 +11,8 @@ import vms.visitormanagementsystem.repositories.HostRepository;
 
 import java.util.Optional;
 
+// TODO : Create Test Cases for this service
+
 @Service
 public class EventService {
 
